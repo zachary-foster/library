@@ -7,6 +7,19 @@ output: html_document
 
 ##  @singer2016high
 
-Surveyed oomycete diversity in acidic peat bogs in the Jura Mountains of Switzerland and France using Illumina HiSeq sequencing of V9 SSU using universal primers [@amaral2009method]. The MoBio soil kit was used to extract DNA from 65 samples of Sphagenum moss from differnt micohabitats. 3% of the total sequencing was oomycetes and an average of about 16 phylotypes per sample were found consitution a total of 34, although only 3 phylotypes matched their refernece sequence 100%. There was no significant difference between the 5 sites sampled, but there was a difference between microhabitates, particulary between pools and the more terrestrial ones. Most of the oomycetes they found were assinged to uncharacterized basal clades. They found some realted to pathogens of animals and plants, but its hard to infer ecosystem function from a 180bp barcode.  
+Surveyed oomycete diversity in acidic peat bogs in the Jura Mountains of Switzerland and France using Illumina HiSeq sequencing of V9 SSU using universal primers [@amaral2009method].
+The MoBio soil kit was used to extract DNA from 65 samples of Sphagenum moss from differnt micohabitats. 3% of the total sequencing was oomycetes and an average of about 16 phylotypes per sample were found constituting a total of 34, although only 3 phylotypes matched their refernece sequence 100%.
+There was no significant difference between the 5 sites sampled, but there was a difference between microhabitates, particulary between pools and the more terrestrial ones.
+Most of the oomycetes they found were assinged to uncharacterized basal clades. They found some realted to pathogens of animals and plants, but its hard to infer ecosystem function from a 180bp barcode.  
+
+
+## @lara2011highly 
+
+Used cloneing and sequencing to explore the diversity of protists in sphagenum-dominated bogs and poor fens in the Jura Mountains.
+5 water samples yeilded 1070 sequences and 132 phylotypes.
+Two SSU primer pairs were used and had different results: 1F/1498R and 82F/1498R.
+500ml of water was filtered through 50uM and 0.2uM and DNA was extracted from the 0.2uM filter.
+Used phylogenetic methods to analyze community relationships and found evidence for new eukaryotic clade.
+Chrysophyaceae was common, particulary in the winter. 
 
 # References

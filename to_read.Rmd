@@ -4,7 +4,6 @@ bibliography: "references.bib"
 output: html_document
 ---
 
-* @lara2011highly
 * @amaral2009method
 
 ## References

@@ -5,5 +5,7 @@ output: html_document
 ---
 
 * @amaral2009method
+* @ji2013reliable
+* @lott2015covenntree
 
 ## References

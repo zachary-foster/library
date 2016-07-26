@@ -7,5 +7,9 @@ output: html_document
 * @amaral2009method
 * @ji2013reliable
 * @lott2015covenntree
+* @coleman2016plant
+* @singer2016high
+* @wang2015orthovenn
+* @coleman2014building
 
 ## References

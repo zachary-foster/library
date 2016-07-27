@@ -1,11 +1,22 @@
 ---
 title: "Notes on references"
 bibliography: "references.bib"
-output: html_document
+output: md_document
 ---
 
+```{r, echo = FALSE}
+link_pdf <- function(key) {
+  path <- list.files("pdfs", pattern = key, recursive = TRUE, full.names = TRUE)
+  if (length(path) > 1) {
+    stop("More than one PDF matches the key!")
+  }
+  paste0("## @", key, "\n\n[PDF](", path, ")")
+}
+```
 
-##  @singer2016high
+
+
+`r link_pdf("singer2016high")`
 
 Surveyed oomycete diversity in acidic peat bogs in the Jura Mountains of Switzerland and France using Illumina HiSeq sequencing of V9 SSU using universal primers [@amaral2009method].
 The MoBio soil kit was used to extract DNA from 65 samples of Sphagenum moss from differnt micohabitats. 3% of the total sequencing was oomycetes and an average of about 16 phylotypes per sample were found constituting a total of 34, although only 3 phylotypes matched their refernece sequence 100%.
@@ -21,5 +32,20 @@ Two SSU primer pairs were used and had different results: 1F/1498R and 82F/1498R
 500ml of water was filtered through 50uM and 0.2uM and DNA was extracted from the 0.2uM filter.
 Used phylogenetic methods to analyze community relationships and found evidence for new eukaryotic clade.
 Chrysophyaceae was common, particulary in the winter. 
+
+
+## @rodriguez2015role 
+
+Nitrogen and phosphorous are typically limiting and can be made accessible by nitrogen-fixing bacteria and arbuscular mycorrhizal fungi (AMF) respectively. 
+Nitrogen-fixing bacteria are being actively used, but the use of AMF is hampered by insufficient research on yield effects and the need of plants for large-scale culturing of AMF.
+Research comparing inoculated vs sterile soil demonstrate a large benefit of AMF, but since AMF are associated with all crop plants naturally, this is rather artificial, and effects of AMF inoculation of plants with existing AMF communities are less consistent.
+Only cassava has shown a significant and consistent yield increase of ~20%.
+More research on how AMF inoculations affect natural communities is needed. 
+There is little evidence on how specific AMF are to host and environment or how quickly they can adapt.
+Different isolates of the same AMF species can have drastically different effects of crop yield.
+There is also evidence to a lesser degree that host genotype has a significant effect as well. 
+More research is needed on the persistence/spread of introduced AMF populations in agriculture systems as well as spread of introduced alleles to native populations. 
+
+
 
 # References

@@ -11,5 +11,7 @@ output: html_document
 * @singer2016high
 * @wang2015orthovenn
 * @coleman2014building
+* @mengual2014microbial
+* @turner2013plant
 
 ## References

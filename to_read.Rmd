@@ -10,9 +10,10 @@ output: html_document
 * @coleman2016plant
 * @singer2016high
 * @wang2015orthovenn
-* @coleman2014building
 * @mengual2014microbial
 * @turner2013plant
+* @harpole2016addition
 * Evaluation of 16S rRNA Gene Primer Pairs for Monitoring Microbial Community Structures Showed High Reproducibility within and Low Comparability between Datasets Generated with Multiple Archaeal and Bacterial Primer Pairs
+* @barrow2008symbiotic
 
 ## References

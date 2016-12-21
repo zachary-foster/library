@@ -47,5 +47,28 @@ There is also evidence to a lesser degree that host genotype has a significant e
 More research is needed on the persistence/spread of introduced AMF populations in agriculture systems as well as spread of introduced alleles to native populations. 
 
 
+## @links2014simultaneous
+
+Many OTUs were shared between brassica and triticum seeds and there was no detectable difference in richness or evenesss. This semms odd considering one is monocot and one a dicot. Perhaps this is due to them being commonly grown in a crop rotation.
+
+?Hierarchical clustering
+
+An antagonistic reaction was found between pantoea agglomerans, a bacterial biocontrol of fireblight, and an Alternaria species, a ascomycete plant pathogen.
+
+chaperonin 60 (cpn60) also called heat schock protein 60 (hsp60) was used as the barcode since it is present in both bcateria and fungi.  
+
+
+Hashidoko, 2005; Critzer & Doyle, 2010
+
+Hallmann et al., 1997
+
+Lucero et al., 2011
+
+Hallmann et al., 1997;
+Lucero et al., 2011
+
+Johnston-Monje
+& Raizada, 2011
+
 
 # References

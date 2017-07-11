@@ -1,7 +1,9 @@
----
+  ---
 title: "Notes on references"
-bibliography: "references.bib"
-output: md_document
+output:
+  pdf_document: default
+  html_document: default
+bibliography: references.bibtex
 ---
 
 ```{r, echo = FALSE}
@@ -13,6 +15,11 @@ link_pdf <- function(key) {
   paste0("## @", key, "\n\n[PDF](", path, ")")
 }
 ```
+
+
+## @james2000nitrogen
+
+* N2^15 is used to test for nitrogen fixation, but as of 2000, studies have been too long to differentiate between free living N fixers decomposing and symbionts.
 
 
 
@@ -70,5 +77,26 @@ Lucero et al., 2011
 Johnston-Monje
 & Raizada, 2011
 
+
+## @mengual2014microbial
+
+* Rhizobacteria are known to increase root surface area, nitrogen fixation, and phosphate and potassium availability.
+* Found increased lavender growth in response to sugar beet compost and various bacillus species. 
+* Addressing the issue of revegitating degraded mediterranian soils.
+
+## @turner2013plant
+
+* Has lots of good things to say about the microbiome
+* 5-20% total photosynthesis production goes to rhizobiome
+* archea in agriculture contribute to ammonia oxidation and methanogensis
+* rhizobium forms nodules on legumes
+* azotobacter is a free living N-fixer
+* actinomycetes tend to produce antimicrobials 
+* bcateria in the phylosphere might have photosynthetic rhodopisins with non-overlappping spetra
+* endophytes are mostly in the apoplast and dead cells
+* there are more endophytes in lower roots than shoots, perhaps suggesting that they travel upwards.
+* the microbiome can increase systemic resistance in plants
+* Some bacteria like rhizobia and bacillus can produce plant hormones. 
+* Rhizobia is a lifestyle, rhizobium is a genuss
 
 # References

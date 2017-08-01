@@ -15,6 +15,32 @@ link_pdf <- function(key) {
   paste0("## @", key, "\n\n[PDF](", path, ")")
 }
 ```
+## @james2002infection
+
+* Innoculated rice with Herbaspirillum seropedicae and obseverd infection with microscopy and nutrient analysis.
+* Bacteria enter through cracks at lateral root junctions
+* Inhabit arenchyma and swell open spaces. Slight host repsonse
+* N fixation is variable and highy dependendt on plant genotpye
+
+
+## @de1996biological
+
+* Applied a selection of azospirillum strains to a selection of maize cultivars and measured 15N accumulation, biomass, and N. 
+* Different culivars/strain combinations had difference responses
+* In 2 of the 4 cultivars, the addition of some strains of azospirillum was equalvalent to 100 kg N / ha fertilizer.
+
+## @de1996maize
+
+* A two-year study of the effects of azospirillum innoculation on differnt cultivars of maize.
+* Found consistent veriation in grain production, nitrase activity, and N levels that differed between cultivars.
+* Azospirillum species have been studied as innoculatants of cereal crops.
+
+## @wu1995molecular
+
+* Used F2 crosses of two rice cultivars, 15N labled soil, and RFLP to determine if N-fixation was determined gentically.
+* Most bacteria in the rhizosphere of rice are N-fixing. (Watanabe 1981)
+* One cultivar fixed 23% more N than the other. 
+* 16% of the variability of N-fixation in F2 plants was attributed to 4 QTLs.
 
 
 ## @james2000nitrogen

@@ -7,11 +7,11 @@ output: html_document
 
 ## To read
 
+* @boddey1995n2
 * @sevilla1998contributions
 * @sevilla2000genetic
 * @bokulich2014microbial
 * @reinhold2011living
-* @james2002infection
 * @bulgarelli2012revealing
 * @lundberg2012defining
 * @inceouglu2011comparative

@@ -15,9 +15,18 @@ link_pdf <- function(key) {
   paste0("## @", key, "\n\n[PDF](", path, ")")
 }
 ```
+
+## @edgar2017accuracy
+
+* Evaluated the accuracy of diversity metrics when using open/close-reference OTU calling with QIIME.
+* Weighted UniFrac is much more tolerant of sequencing error than Jaccard
+* The recommended protocol/settings of QIIME lead to an overestimates of diversity
+* Different parts of 16S from the same sequence are often assigned to different taxa 
+
+
 ## @james2002infection
 
-* Innoculated rice with Herbaspirillum seropedicae and obseverd infection with microscopy and nutrient analysis.
+* Inoculated rice with Herbaspirillum seropedicae and obseverd infection with microscopy and nutrient analysis.
 * Bacteria enter through cracks at lateral root junctions
 * Inhabit arenchyma and swell open spaces. Slight host repsonse
 * N fixation is variable and highy dependendt on plant genotpye
@@ -124,5 +133,9 @@ Johnston-Monje
 * the microbiome can increase systemic resistance in plants
 * Some bacteria like rhizobia and bacillus can produce plant hormones. 
 * Rhizobia is a lifestyle, rhizobium is a genuss
+
+## @taylor2017nitrogen
+
+* In 7 plots in costa rican rainforests the DBH of nitrogen fixers correlated negativly with the biomass change of non-nitrogen fixers.
 
 # References

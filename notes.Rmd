@@ -16,6 +16,16 @@ link_pdf <- function(key) {
 }
 ```
 
+## @sapkota2015host
+
+*  The effects of cereal host genotype, fungicide treatment and location on fungal communities were explored
+* Most fungal taxa were found to be cosmopolitan, as they were found in all cereal species, and, in general, only pathogens were found to be host specific
+* Overall, samples were dominated by a few fungal species across all crops
+* In general, filamentous fungi are considered to be transient inhabitants, whereas yeasts appear to be more permanent colonizers within the phyllosphere
+* Crop genotype had the strongest effect on fungal community strucutre
+* Surprisingly, only a few OTUs responded significantly to fungicide treatment, and these did not include some of the organisms that are normally targeted in fungicide applications (such as Z. tritici and B. graminis).
+
+
 ## @sapkota2017spatiotemporal
 
 * Studied the effects of location, time, leaf age, and cultivar on the wheat fungal microbiome using ITS1 metabarcoding
@@ -23,7 +33,7 @@ link_pdf <- function(key) {
 * Found that cultivar was most important in explaining variation in older leaves whereas location better explained the variation in younger leaves
 * Network analysis revealed negative co-existence between Zymoseptoria tritici and various
 yeasts 
-* Found a correlation between Zymoseptoria tritici infection and read proporiton up to 30% infection 
+* Found a correlation between Zymoseptoria tritici infection and read proportion up to 30% infection 
 
 
 ## @edgar2017accuracy

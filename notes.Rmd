@@ -16,6 +16,11 @@ link_pdf <- function(key) {
 }
 ```
 
+## @bokulich2014microbial
+
+* Grape variety plays a significant role in shaping microbial community patterns across all regions and vintages
+* As the most dominant and discriminant taxa between regions and varieties have well-characterized impacts on grape and wine qualities, these differences may help explain regional patterns in wine chemicosensory properties 
+
 ## @sapkota2015host
 
 *  The effects of cereal host genotype, fungicide treatment and location on fungal communities were explored
